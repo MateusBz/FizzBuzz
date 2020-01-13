@@ -1,5 +1,16 @@
-### FizzBuzz
 
-Write a program that prints the numbers from 1 to 20. But for multiples of three print “Fizz”
-instead of the number and for the multiples of five print “Buzz”.
-For numbers which are multiples of both three and five print “FizzBuzz”.
+**FizzBuzz**
+
+Simple program that prints the numbers from 1 to 20.
+For multiples of three it prints ‘Fizz’ instead of the number and for multiplies of five it prints ‘Buzz’.
+For numbers which are multiplies of both three and five it prints ‘FizzBuzz’.
+
+
+**Installing**
+
+To install, download the repository and run.
+
+
+**Running the tests**
+
+Run the test file.
